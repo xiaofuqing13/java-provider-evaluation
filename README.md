@@ -12,6 +12,10 @@
 
 ![系统登录页](images/login_page.png)
 
+### 管理后台
+
+![管理后台](images/dashboard.png)
+
 ## 核心功能
 
 - **供应商管理**：供应商信息的增删改查
