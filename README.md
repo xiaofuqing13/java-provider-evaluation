@@ -109,6 +109,6 @@ npm run serve
 | 认证 | Token (JWT) |
 | 构建 | Maven, npm |
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
