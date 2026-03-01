@@ -1,5 +1,8 @@
 # 供应商评价管理系统
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)
+
+
 企业在选择和管理供应商时，需要对供应商的服务质量、交货能力、价格水平等进行系统化评价和记录。传统的 Excel 表格记录方式分散、不便共享、无法多人协作，查找历史评价记录也很麻烦。本项目搭建了一套 Web 化的供应商评价管理系统，支持供应商信息管理、评价打分、公告发布等功能，前后端分离架构方便部署和扩展。
 
 ## 痛点与目的
