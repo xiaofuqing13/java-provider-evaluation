@@ -1,0 +1,27 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Node
+vue/node_modules/
+vue/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.bak
+
+# macOS
+.DS_Store
+._*
+
+# Logs
+*.log
